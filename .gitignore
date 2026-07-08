@@ -1,0 +1,28 @@
+# Environment variables (contains database password!)
+.env
+.env.local
+.env.*.local
+
+# Node modules
+node_modules/
+
+# Build output
+.next/
+out/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Testing
+coverage/
